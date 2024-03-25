@@ -1,0 +1,280 @@
+body {
+    font-family: 'montserrat';
+    margin: 0px;
+    padding: 0px;
+    background-color: #e3e3e3;
+}
+#searchbar {
+    min-width: 98%;
+    height: 30px;
+    font-size: 20px;  
+    background-color: #fafafa;  
+}
+#start {
+    background-color: #232F3F;
+    margin-bottom: 0px;
+}
+#ham {
+    display: inline-block;
+    width: 24px;
+    margin-top: 0px;
+    margin-bottom: 14px;
+    margin-left: 7px;
+}
+#bglele {
+    background-color: #E1E5E6;
+    
+}
+#diconti{
+    display: inline-block;
+    width: 30px;
+    margin-left: 4px;
+}
+
+#mainphoto {
+    width: 120px;
+    display: inline-block;    
+    margin-left: 5px;
+    margin-top: 4px;
+    margin-bottom:  px;
+    }
+#cart {
+    width: 45px;
+    display: inline-block;    
+    margin-bottom: 10px;
+    margin-top: 2px;
+    margin-right: 0px;
+}
+#login {
+    display: inline-block;
+    width: 35px;
+    margin-left: 127px;
+    margin-bottom: 10px;
+    margin-right: 6px;
+    margin-top: 2px;
+}
+#location {
+    margin-top: 0px;
+    background-color: #364759;
+    color: white;
+    margin-bottom: 0px;
+}
+#pricediv {
+    background-color: white;
+    margin-top: 3px;
+    display: inline-block;
+    min-width: 100%;
+    height: 30px;
+}
+#pricet {
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 12px;
+    margin-right: 4px;
+    margin-top: 8px;
+}
+#shoe1 {
+    display: inline-block;
+    background-color: #EEEEEE;
+    margin-bottom: 0px;
+}
+#shoe10img {
+    margin-top: 18px;
+    margin-right: 0px;
+    margin-bottom: 18px;
+    margin-left: 8px;
+    display: inline-block;
+}
+#shoe2 {
+    display: inline-block;
+    margin-bottom: 0px;
+    background-color: #EEEEEE;
+}
+#shoe20img {
+    display: inline-block;
+    margin-top: 70px;    
+    margin-bottom: 61px;
+    margin-right: 0px;
+}
+#shoe10details {
+    background-color: white;
+    color: black;
+    margin-top: 0px;
+    display: inline-block;
+    width: 188px;
+}
+#sponser10 {
+    display: inline-block;
+    font-size: 11px;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+#uv {
+    margin-left: 10px;
+    margin-top: 1px;
+    font-size: 17px;
+    display: inline-block;    
+}
+#targetshoe10 {
+    margin-left: 10px;
+    margin-top: -10px;
+    font-size: 12px;
+}
+#shoe10price {
+    margin-left: 11px;
+    margin-top: -3px;
+    font-size: 22px;
+    display: inline-block;
+}
+#shoe10lust {
+    display: inline-block;
+    font-weight: 115;    
+    font-size: 13px;
+    margin-left: 7px;    
+}
+#prime1 {
+    display: inline-block;
+    margin-left: 7px;
+    margin-top: -28px;
+}
+#deliveryshoe10 {
+    margin-left: 7px;
+    font-weight: 135;
+    font-size: 12px;
+    margin-top: -18px;
+}
+#shoe10amount {
+    color: red;
+    font-weight: 175;
+    margin-left: 7px;
+    font-size: 13px;
+    margin-top: -7px;
+}
+#shoe20details {
+    background-color: white;
+    color: black;
+    display: inline-block;
+    width: 185px;
+    height: 201px;
+    position: absolute; 
+    top: 505px; 
+    left: 192px; 
+}
+#shoe4 {
+    display: inline-block;
+    margin-bottom: 0px;
+    background-color: #EEEEEE;
+    height: 369px;
+}
+#shoe40img {
+    display: inline-block;
+    margin-top: 85px;    
+    margin-bottom: 131px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#shoe40details {
+    background-color: white;
+    color: black;
+    display: inline-block;
+    width: 183px;
+    height: 201px;
+    position: absolute; 
+    top: 1075px; 
+    left: 192px; 
+}
+#shoe3 {
+    display: inline-block;
+    background-color: #EEEEEE;
+    margin-bottom: 0px;  
+}
+#shoe30img {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    display: inline-block;
+}
+#shoe40img {
+    margin-top: 0px;
+    margin-right: 9px;
+    margin-bottom: 0px;
+    margin-left: 3px;
+    display: inline-block;
+}
+#theend {
+    background-color: #364759;
+    margin-top: 3px;
+    text-align: center;
+    margin-bottom: 0px;    
+}
+#endofme {
+    color: white;
+    text-decoration: none;    
+    display: inline-block;
+    margin-bottom: 3px;
+}
+#allend {
+    background-color: #232F3F;
+    margin-top: 0px;
+}
+#amazonin {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#yourorders {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+#amazonpay {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#appdownload {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 85px;
+}
+#yourlists {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#youraccount {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 103px;
+}
+#recentlyviewed {
+        color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#returns {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 57px;
+}
+#sell {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#service {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 147px;
+}
