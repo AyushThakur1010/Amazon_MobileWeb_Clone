@@ -1,0 +1,70 @@
+body {
+    font-family: 'montserrat';
+    margin: 0px;
+    padding: 0px;  
+    background-color: #e3e3e3;  
+}
+#searchbar {
+    min-width: 98%;
+    height: 30px;
+    font-size: 20px;  
+    background-color: #fafafa;  
+}
+#start {
+    background-color: #232F3F;
+    margin-bottom: 0px;
+}
+#ham {
+    display: inline-block;
+    width: 24px;
+    margin-top: 0px;
+    margin-bottom: 14px;
+    margin-left: 7px;
+}
+#bglele {
+    background-color: #E1E5E6;
+    
+}
+#diconti{
+    display: inline-block;
+    width: 30px;
+    margin-left: 4px;
+}
+
+#mainphoto {
+    width: 120px;
+    display: inline-block;    
+    margin-left: 5px;
+    margin-top: 4px;
+    margin-bottom:  px;
+    }
+#cart {
+    width: 45px;
+    display: inline-block;    
+    margin-bottom: 10px;
+    margin-top: 2px;
+    margin-right: 0px;
+}
+#login {
+    display: inline-block;
+    width: 35px;
+    margin-left: 127px;
+    margin-bottom: 10px;
+    margin-right: 6px;
+    margin-top: 2px;
+}
+#location {
+    margin-top: 0px;
+    background-color: #364759;
+    color: white;
+    margin-bottom: 0px;
+}
+#empty {
+    background-color: white;
+    margin-top: 2px;
+    text-align: center;
+    vertical-align: center;
+}
+#cartt {
+    display: inline-block;
+}
